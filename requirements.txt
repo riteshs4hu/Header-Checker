@@ -1,5 +1,0 @@
-argparse
-requests
-json
-concurrent.futures
-sys
