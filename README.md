@@ -32,7 +32,7 @@ The script requires the following dependencies:
 ## Installation
 
 ```
-git clone https://github.com/Mr-Secure-Code/Header-Checker.git &&
+git clone https://github.com/riteshs4hu/Header-Checker.git &&
 cd Header-Checker
 chmod +x header-checker.py
 ./header-checker.py
